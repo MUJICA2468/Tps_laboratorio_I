@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1528079932 source:d:\tps de programación\tp3_segundointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+	"utn.h"
+	"movie.h"
+
+1527997362 source:d:\tps de programación\tp3_segundointento\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1527964660 d:\tps de programación\tp3_segundointento\utn.h
+
+1528079670 source:d:\tps de programación\tp3_segundointento\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+	"utn.h"
+	"movie.h"
+
+1527998708 d:\tps de programación\tp3_segundointento\funcion.h
+	"movie.h"
+
+1528080081 source:d:\tps de programación\tp3_segundointento\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"utn.h"
+
+1528080130 d:\tps de programación\tp3_segundointento\movie.h
+
